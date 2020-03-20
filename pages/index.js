@@ -8,14 +8,14 @@ export default function Index() {
     <Layout>
       <div className="absolute w-screen h-screen bg-background p-12 flex flex-col align-center">
         <h1 className="text-center text-heading text-4xl font-bold">
-          Gatsby + Tailwind Theming example
+          NextJS + Tailwind Theming example
         </h1>
         <p className="text-center mt-8 text-xl text-body">
           This is a basic example of how to setup theming using Tailwind +
           PostCSS. checkout the{" "}
           <a
             className="text-primary hover:text-primary-hover"
-            href="https://github.com/horacioh/gatsby-tailwind-theming-example"
+            href="https://github.com/horacioh/nextjs-tailwind-theming-example"
             target="_blank"
           >
             repo
