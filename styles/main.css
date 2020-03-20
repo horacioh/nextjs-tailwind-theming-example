@@ -4,6 +4,7 @@
 /* purgecss end ignore */
 @tailwind utilities;
 
+/* purgecss start ignore */
 html,
 body {
   @apply bg-background;
@@ -84,3 +85,4 @@ body {
 .content-transition {
   transition: background-color 0.25s;
 }
+/* purgecss end ignore */
